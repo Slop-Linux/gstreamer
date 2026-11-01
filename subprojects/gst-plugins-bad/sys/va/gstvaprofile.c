@@ -60,7 +60,7 @@ static const struct ProfileMap
   Q (H264, High422, "high-4:2:2", "video/x-h264",
       "profile = (string) high-4:2:2",
       "profile = (string) { high-4:2:2, high-4:2:2-intra }"),
-  /* libva kalium/avd */
+  /* libva m4/avd */
   Q (H264, High444, "high-4:4:4", "video/x-h264",
       "profile = (string) high-4:4:4",
       "profile = (string) { high-4:4:4, high-4:4:4-intra, cavlc-4:4:4-intra }"),

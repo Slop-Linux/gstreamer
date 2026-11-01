@@ -604,7 +604,7 @@ static const struct
   P (HIGH, High),
   P (HIGH10, High10),
   P (HIGH_422, High422),
-  /* libva kalium/avd: with the H.264 extension buffers */
+  /* libva m4/avd: with the H.264 extension buffers */
   P (HIGH_444, High444),
   P (MULTIVIEW_HIGH, MultiviewHigh),
   P (STEREO_HIGH, StereoHigh),
